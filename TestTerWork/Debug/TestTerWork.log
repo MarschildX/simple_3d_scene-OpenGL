@@ -1,0 +1,57 @@
+﻿  main.cpp
+d:\openglfiles\testterwork\testterwork\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\openglfiles\testterwork\testterwork\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\freeimage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\openglfiles\testterwork\testterwork\main.cpp(17): warning C4305: “初始化”: 从“double”到“float”截断
+d:\openglfiles\testterwork\testterwork\main.cpp(18): warning C4305: “初始化”: 从“double”到“float”截断
+d:\openglfiles\testterwork\testterwork\main.cpp(29): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\openglfiles\testterwork\testterwork\main.cpp(32): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\openglfiles\testterwork\testterwork\main.cpp(36): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\openglfiles\testterwork\testterwork\main.cpp(40): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\openglfiles\testterwork\testterwork\main.cpp(45): warning C4305: “参数”: 从“double”到“GLfloat”截断
+d:\openglfiles\testterwork\testterwork\main.cpp(85): warning C4305: “初始化”: 从“double”到“float”截断
+d:\openglfiles\testterwork\testterwork\main.cpp(165): warning C4305: “参数”: 从“double”到“const GLfloat”截断
+d:\openglfiles\testterwork\testterwork\main.cpp(168): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\main.cpp(202): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\main.cpp(409): warning C4305: “参数”: 从“double”到“float”截断
+  正在生成代码...
+  正在编译...
+  mesh.cpp
+d:\openglfiles\testterwork\testterwork\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\openglfiles\testterwork\testterwork\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh.cpp(199): warning C4305: “初始化”: 从“double”到“float”截断
+d:\openglfiles\testterwork\testterwork\mesh.cpp(200): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh.cpp(262): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh.cpp(265): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh.cpp(268): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh.cpp(272): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh.cpp(275): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh.cpp(278): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  Mesh_Painter.cpp
+d:\openglfiles\testterwork\testterwork\freeimage.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\openglfiles\testterwork\testterwork\include\angel.h(63): warning C4305: “初始化”: 从“double”到“GLfloat”截断
+d:\openglfiles\testterwork\testterwork\include\mat.h(698): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(699): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(700): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(721): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(723): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(726): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\include\mat.h(743): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh_painter.cpp(50): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh_painter.cpp(505): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+d:\openglfiles\testterwork\testterwork\mesh_painter.cpp(519): warning C4244: “-=”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  TestTerWork.vcxproj -> D:\OpenGLFiles\TestTerWork\Debug\TestTerWork.exe
+  TestTerWork.vcxproj -> D:\OpenGLFiles\TestTerWork\Debug\TestTerWork.pdb (Partial PDB)
