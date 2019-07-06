@@ -32,11 +32,11 @@ __There are three models:__
 <img height="350" width="350" src="sample_images/scene1.png"/> <img height="350" width="350" src="sample_images/scene2.png"/>
 
 ## How to operate
-__w__: 摄像机往前移动move forward
+__w__: move forward
 
-__s__: 摄像机往后移动move back
+__s__: move back
 
-__a__: 摄像机往左移动move left
+__a__: move left
 
 __d__: move right
 
