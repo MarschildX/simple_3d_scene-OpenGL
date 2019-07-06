@@ -7,10 +7,41 @@ __`opengl`__
 ## Box
 The box consists of following four textures:
 
-<img height="" width="" src=""/> <img height="" width="" src=""/>
+<img height="300" width="300" src="sample_images/sky.png"/> <img height="300" width="300" src="sample_images/ground.png"/>
 
-<img height="" width="" src=""/> <img height="" width="" src=""/>
+<img height="300" width="300" src="sample_images/wall1.png"/> <img height="300" width="300" src="sample_images/wall2.png"/>
 
 I make the blank board by __3Ds Max__ for it can generate the board with coordinate. 
 
 ## Models
+__There are three models:__
+
+1. Naruto:
+
+<div align="center"><img height="450" width="450" src="sample_images/naruto.png"/></div>
+
+2. Cat:
+
+<div align="center"><img height="450" width="450" src="sample_images/cat.png"/></div>
+
+3. Ball:
+
+<div align="center"><img height="450" width="450" src="sample_images/ball.png"/></div>
+
+## Final scene
+<img height="350" width="350" src="sample_images/scene1.png"/> <img height="350" width="350" src="sample_images/scene2.png"/>
+
+## How to operate
+__w__: 摄像机往前移动move forward
+
+__s__: 摄像机往后移动move back
+
+__a__: 摄像机往左移动move left
+
+__d__: move right
+
+__mouse__: shift orientation by all directions 
+
+__p__: ball start bouncing
+
+__o__: ball stop bouncing
